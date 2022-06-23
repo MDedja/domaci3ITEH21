@@ -1,6 +1,6 @@
 import {useState} from 'react';
 
-function PrijavaForm(){
+function PrijavaForm(props){
 
     const [tim, setTim] = useState({
         naziv: '',
@@ -54,7 +54,7 @@ function PrijavaForm(){
                 </div>
 
                 </div>
-                <button  className="btn btn-dark" id="btnprijavitim">Prijavi se</button>
+                <button onClick={() => props.prikaziPrijavu(tim)} className="btn btn-dark" id="btnprijavitim">Prijavi se</button>
 
             </div>
         </div>
