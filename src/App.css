@@ -56,5 +56,10 @@
 
 #tekstoturniru{
   width: 800px;
-  margin-left: 350px;
+  margin-left: 370px;
+  text-align: justify;
+}
+
+#btnekipa{
+  width: 400px;
 }
