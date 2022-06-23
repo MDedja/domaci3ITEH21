@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+#slikahome{
+  margin-top: 15px;
+}
+
+#slikaoturniru{
+  margin-top: 10px;
+  width: 800px;
+  height: 300px;
+}
+
+#tekstoturniru{
+  width: 1300px;
+  font-size: 22px;
+  margin-left: 110px;
+}
+
+
+#tekstoturniru{
+  width: 800px;
+  margin-left: 350px;
+}
