@@ -63,3 +63,25 @@
 #btnekipa{
   width: 400px;
 }
+
+.redforme{
+  display: flex;
+  margin-left: 300px;
+  margin-bottom: 20px;
+}
+
+#formaprijava{
+  margin-top: 80px;
+  margin-left: -15px;
+}
+
+.clan{
+  margin-right: 60px;
+  width: 300px;
+}
+
+#btnprijavitim{
+  width: 400px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
